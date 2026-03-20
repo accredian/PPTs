@@ -56,15 +56,6 @@ One of our core decks covers the transition from a Technical Contributor to a St
 
 -----
 
-## 🤝 Contributing
-
-We welcome suggestions for new topics\! If you are an industry expert or an Accredian alumnus and wish to contribute a perspective, please:
-
-1.  Open an **Issue** with your proposed topic.
-2.  Follow the template guidelines to ensure the "Leadership Perspective" is maintained.
-
------
-
 ## 📬 Contact & Support
 
 For inquiries regarding our research, certifications, or corporate training programs, please visit our website:
